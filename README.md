@@ -1,6 +1,8 @@
 # Aurileous's Realm
 
-This repository is Aurileous's Realm: the complete, validated Goldsmiths lion pet project for Codex.
+Aurileous is a royal desktop lion pet: majestic, expressive, and built modularly for future upgrades, fixes, and AI integration.
+
+This repository contains the complete, validated Aurileous pet project for Codex.
 
 The install-ready Codex v2 package is in `package/`. Its `spritesheet.webp` is an 8-by-11 atlas with 192-by-208 cells, and `pet.json` declares `spriteVersionNumber: 2`.
 
