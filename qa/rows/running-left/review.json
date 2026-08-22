@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10394,
+          "bbox": [
+            5,
+            40,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15078,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 379
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14000,
+          "bbox": [
+            5,
+            25,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 386
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16499,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 448
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11003,
+          "bbox": [
+            5,
+            39,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16297,
+          "bbox": [
+            5,
+            18,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 391
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15839,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\running-left\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18025,
+          "bbox": [
+            5,
+            14,
+            187,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 471
+        }
+      ]
+    }
+  ]
+}

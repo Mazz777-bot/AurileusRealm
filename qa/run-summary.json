@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet",
+  "spritesheet": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\final\\spritesheet-extended.webp",
+  "validation": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\final\\validation-extended.json",
+  "chroma_despill": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\look-directions.png",
+  "direction_semantics": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\direction-blind-validation.json",
+  "continuity": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\look-continuity.json",
+  "review": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\review.json",
+  "package": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\package",
+  "installed": false,
+  "installation_note": "The package is install-ready, but this session was denied writes to C:\\Users\\Kenda\\.codex despite granted filesystem permission."
+}

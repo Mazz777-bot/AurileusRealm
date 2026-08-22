@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19549,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16517,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16413,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21049,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 347
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\Kenda\\Documents\\Codex\\2026-08-22\\so-x20\\outputs\\goldsmiths-lion-pet\\qa\\rows\\jumping\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20231,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        }
+      ]
+    }
+  ]
+}

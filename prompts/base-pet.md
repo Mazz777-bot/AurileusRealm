@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Goldsmiths Lion.
+
+Pet identity: A compact full-body regal male lion based closely on the supplied mascot: rich golden-brown coat, large dark-to-gold mane, ornate gold crown, round lion medallion, and matching gold foreleg bracers. Preserve the commanding amber-eyed face and luxurious black-and-gold personality. Simplify micro-engraving so it reads cleanly at 192x208 pet size. No pedestal, wordmark, slogans, scenery, or readable text..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Polished dimensional painterly mascot rendering with crisp silhouette, warm metallic gold accents, expressive but dignified animation, and strong readability at desktop-pet scale..
+
+
+Place a single centered pose on a perfectly flat pure cyan #00FFFF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FFFF and close colors out of the pet, props, highlights, and effects.

@@ -1,0 +1,7 @@
+# Windows and editor metadata only. Pet artifacts are intentionally tracked.
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.tmp
+
